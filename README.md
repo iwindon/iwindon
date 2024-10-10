@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iwindon
 - 👀 I’m interested in vintage computers, such as the IBM PS/2 30 286, which was my first computer.  I also enjoy mountain biking, programming, and learning new topics.
-- 🌱 I’m currently learning Python, Go, and C++
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - Currently Developing in Python
+- 🌱 I’m currently learning Go, and C++
 - 💞️ I’m looking to collaborate on anything that I can help with and also expand on my knowledg base.
 - 📫 How to reach me on LinkedIn (https://www.linkedin.com/in/ivanwindon/)
 
