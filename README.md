@@ -10,4 +10,3 @@
 iwindon/iwindon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/2f78eacd-ca2e-4d11-a858-ae0a57f38210)
